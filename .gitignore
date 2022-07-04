@@ -16,6 +16,7 @@
 /.vscode
 /Asphodelos.csproj
 /gen.cs
+/skillnamefix.cs
 # distribute
 /dist
 # 
