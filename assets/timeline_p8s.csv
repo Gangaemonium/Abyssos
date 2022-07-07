@@ -1,2 +1,2 @@
-Time,Skill,Cast(s),Description
-0:00,,,시작
+Time,Skill,Cast(s),Description,DefendSkills,OuterDefendSkills,SynergySkill
+0:00,,,시작,,,
